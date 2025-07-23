@@ -111,6 +111,8 @@ For the system, I created a flowchart. This shows my logical thinking about orde
 
 The recommendations are stored in an excel file, easy to edit and widely understood.
 
+<img width="1643" height="483" alt="recommendations" src="https://github.com/user-attachments/assets/0028bc48-11ba-466e-80f4-4adbe758441a" />
+
 
 ## **Figures**
 
